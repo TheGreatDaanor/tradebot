@@ -1,0 +1,4 @@
+websockets==9.0.2
+pprint36==3.9.0.2
+TA-Lib==0.4.20
+numpy==1.20.3
